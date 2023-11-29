@@ -28,8 +28,8 @@ public class LoginService {
         URI uri = UriComponentsBuilder
                 .fromUriString("https://nid.naver.com/oauth2.0/token")
                 .path("")
-                .queryParam("client_id", "Pjqbiev3Yf6VA664uaFp")
-                .queryParam("client_secret", "GuP17lGYuX")
+                .queryParam("client_id", "클라이언트 아이디")
+                .queryParam("client_secret", "클라이언트 시크릿")
                 .queryParam("state", state)
                 .queryParam("code", code)
                 .queryParam("grant_type", "authorization_code")
