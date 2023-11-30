@@ -19,9 +19,14 @@
 
 - database – H2 2.1.214
 
-- sql매핑 - jdbc template
+- sql mapping - jdbc template
 
 ----
+**open API**
+
+네이버 oauth
+
+-----
 
 ![20231130_115846](https://github.com/mystelee0/examSite/assets/99077666/9f09a1c0-4399-4b6d-8b25-4ceeccfdca80)
 ![20231130_115801](https://github.com/mystelee0/examSite/assets/99077666/28475d29-fb10-4681-8336-9632c67bff55)
